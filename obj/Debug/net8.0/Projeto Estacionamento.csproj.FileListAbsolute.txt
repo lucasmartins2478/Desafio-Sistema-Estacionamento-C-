@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\bin\Debug\net8.0\Projeto Estacionamento.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\refint\Projeto Estacionamento.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\Projeto Estacionamento.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\-\Bootcamp - Fullstack developer\Projeto Estacionamento\obj\Debug\net8.0\ref\Projeto Estacionamento.dll
